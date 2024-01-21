@@ -56,7 +56,7 @@ Ensure you have the following installed:
 
 ## Contributing
 
-Contributions are welcome! Please check the [Contribution Guidelines](CONTRIBUTING.md).
+Contributions are welcome!
 
 ## License
 
